@@ -2,7 +2,7 @@
  *
  * Created by: Katherine
  * Created on: Feb 2026
- * This program will print Hello, World! 
+ * This program will print Katherine!! 
 */
 
-basic.showString('Hello, World!')
+basic.showString('Katherine!!')
